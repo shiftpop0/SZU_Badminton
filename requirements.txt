@@ -1,0 +1,5 @@
+browser_cookie3==0.19.1
+pandas==2.0.3
+Requests==2.31.0
+streamlit==1.29.0
+
